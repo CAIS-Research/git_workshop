@@ -5,7 +5,7 @@ This repository contains the materials for the short workshop "Using `git` & *Gi
 [![](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 
 Please link to the [workshop GitHub repository](https://github.com/CAIS-Research/git_workshop)
 
-**You can directly access & download the PDF slides [HERE](https://raw.githubusercontent.com/CAIS-Research/git_workshop/main/slides/WS_RStudio_Git_GitHub.pdf)**.
+**You can directly access & download the PDF slides [HERE](https://raw.githubusercontent.com/CAIS-Research/git_workshop/main/WS_RStudio_Git_GitHub.pdf)**.
 
 ## Learning objectives
 
@@ -19,7 +19,7 @@ Learning how to…
 
 ## Prerequisites
 
-To code along and do the exercises, you need to working installations of `R`, *RStudio*, & `git` as well as a *GitHub* account. The steps are described in detail in the [setup instructions document](https://raw.githubusercontent.com/CAIS-Research/git_workshop/main/slides/Setup_Instructions_OH.pdf).
+To code along and do the exercises, you need to working installations of `R`, *RStudio*, & `git` as well as a *GitHub* account. The steps are described in detail in the [setup instructions document](https://raw.githubusercontent.com/CAIS-Research/git_workshop/main/Setup_Instructions_OH.pdf).
 
 ## Acknowledgments
 
